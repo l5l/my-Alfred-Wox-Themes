@@ -11,7 +11,7 @@ This is how it looks:
 * Dark with border
 ![Dark with border](./Images/darkBorder.png)
 
-* Dark with shadow]
+* Dark with shadow
 ![Dark with shadow](./Images/darkShadow.png)
 
 ## How to use
