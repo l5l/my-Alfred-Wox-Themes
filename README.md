@@ -1,6 +1,18 @@
-# myAlfredWoxTheme
-
+# My Wox Themes
 Just another themes for [Wox](http://www.wox.one) which make it more like Alfred.
+
+This is how it looks:
+* Light with border
+![Light with border](./Images/lightBorder.png)
+
+* Light with shadow
+![Light with shadow](./Images/lightShadow.png)
+
+* Dark with border
+![Dark with border](./Images/darkBorder.png)
+
+* Dark with shadow]
+![Dark with shadow](./Images/darkShadow.png)
 
 ## How to use
 * Download this project
@@ -9,10 +21,3 @@ Just another themes for [Wox](http://www.wox.one) which make it more like Alfred
 * Open Wox settings select one these themes
 
 > P.S: AppData is a hidden folder in the system, if you can not find it, just press `Win + R` and input `%AppData%\..\Local\Wox`, you'll be there.
-
-This is how it looks on my system:
-
-![myAlfredWoxThemeLight](./Images/light.png)
-
-![myAlfredWoxThemeDark](./Images/dark.png)
-
